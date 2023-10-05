@@ -1,17 +1,17 @@
 {
-    "name": "Gojo_Satoru",
-    "description": "Gojo is a Telegram Group management bot made using Pyrogram and Python, which makes it modern and faster than most of the Telegram chat managers.",
-    "logo" : "https://te.legra.ph/file/633bd27c1607fe98920b6.jpg",
+    "name": "Esdeath",
+    "description": "Esdeath is a Telegram Group management bot made using Pyrogram and Python, which makes it modern and faster than most of the Telegram chat managers.",
+    "logo" : "https://te.legra.ph/file/af9dfc7f3477d2119063c.jpg",
     "keywords": [
       "telegram bot",
       "group bot",
       "group",
       "manager",
-      "Gojo",
+      "Esdeath",
       "Anime"
     ],
-    "repository": "https://github.com/Gojo-Bots/Gojo_Satoru",
-    "success_url": "https://t.me/GojoSuperbot",
+    "repository": "https://github.com/akagamikaizoku",
+    "success_url": "https://t.me/esdeath_xb",
     "env": {
       "BOT_TOKEN": {
         "description": "Your telegram bot token, get from @Botfather in telegram.",
